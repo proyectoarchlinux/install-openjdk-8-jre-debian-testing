@@ -1,8 +1,8 @@
 #!/bin/bash
 
-WGET="wget http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre-headless_8u212-b01-1~deb9u1_amd64.deb"
+WGET="wget http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre-headless_8u222-b10-1~deb9u1_amd64.deb"
 
-WGETJAVA="wget http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre_8u212-b01-1~deb9u1_amd64.deb"
+WGETJAVA="wget http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre_8u222-b10-1~deb9u1_amd64.deb"
 
 INSTALL="sudo dpkg -i openjdk-8-jre-headless_8u212-b01-1~deb9u1_amd64.deb"
 
