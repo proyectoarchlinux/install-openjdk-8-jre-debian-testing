@@ -2,20 +2,16 @@
 
 **Otorgar permisos de ejecución a los scripts:**
 
-`chmod +x install32.sh && chmod +x install64.sh`
+`chmod +x install32.sh && chmod +x install64.sh && chmod +x instalador.sh`
 
-*NOTA: Utilizar el script según tu arquitectura, 64 o 32 bits.*
+*NOTA: Utilizar la opción según arquitectura, X64 0 X32(X86)*
 ****
 ## Ejecución e instalación de los paquetes:
 
 *Estando en la misma carpeta de los scripts (recomendable).*
 
-**Usuarios de 64 bits:**
+**Ejecutar el instalador automático:**
 
-`sh install64.sh`
-
-**Usuarios de 32 bits:**
-
-`sh install32.sh`
+`sh instalador.sh`
 
 ## Se descargarán e instalarán los paquetes automáticamente.
