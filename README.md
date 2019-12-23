@@ -14,4 +14,4 @@
 
 `sh instalador.sh`
 
-## Se descargarán e instalarán los paquetes automáticamente.
+## Usted puede elegir entre todas las opciones convenientes.
